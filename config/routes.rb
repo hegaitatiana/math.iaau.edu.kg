@@ -1,4 +1,8 @@
 MathIaauEduKg::Application.routes.draw do
+  resources :faculties
+
+  resources :programs
+
   get "welcome/index"
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)

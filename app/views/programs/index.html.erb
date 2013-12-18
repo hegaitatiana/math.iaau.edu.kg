@@ -1,0 +1,25 @@
+<% provide(:title, "Programs") %>
+<div class = "container">
+    <h1>Listing programs</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Content</th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <% @programs.each do |program| %>
+          <tr>
+            <td><%= program.title %></td>
+            <td><%= program.content %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+</div>

@@ -1,0 +1,36 @@
+<% provide(:title, "Faculty") %>
+<div class = "container">
+    <h1>Listing faculties</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Degree</th>
+          <th>Office</th>
+          <th>Office time</th>
+          <th>Phone</th>
+          <th>Email</th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <% @faculties.each do |faculty| %>
+          <tr>
+            <td><%= faculty.name %></td>
+            <td><%= faculty.position %></td>
+            <td><%= faculty.degree %></td>
+            <td><%= faculty.office %></td>
+            <td><%= faculty.office_time %></td>
+            <td><%= faculty.phone %></td>
+            <td><%= faculty.email %></td>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+
+</div>

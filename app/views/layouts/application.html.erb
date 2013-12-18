@@ -1,14 +1,84 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>MathIaauEduKg</title>
-  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <meta carset = "utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title><%= yield(:title)%></title>
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
+  <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
+
 </head>
 <body>
-
-<%= yield %>
-
+<div class = "container">
+  <div class = "top_line"></div>
+  <div class = "top">
+    <%= image_tag ("icon.png"),{:class => 'icon'} %>
+    <p class = "math"><span style=color:rgb(105,175,0);>I</span>nternational <span style=color:rgb(105,175,0);>A</span>taturk- <span style=color:rgb(105,175,0);>A</span>latoo <span style=color:rgb(105,175,0);>U</span>niversity</br><span class = "weight"><span style=color:rgb(105,175,0);>A</span>pplied <span style=color:rgb(105,175,0);>M</span>athematics and <span style=color:rgb(105,175,0);>I</span>nformatics</span></p>
+  </div>
+  <div class = "navigation">
+    <table class = "table1">
+      <tr class = "tr1">
+        <td class = "home" id="<%= "highlighted" if params[:controller] == "welcome" %>">
+          <%= image_tag "home.png",class: "img1" %>
+          <%= link_to "Home",{:controller => 'welcome'}, class:"link1" %>
+        </td>
+        </a>
+        <td class = "about">
+            <%= image_tag "about.png",class: "img2" %>
+            <%= link_to "About",{:controller => 'welcome'}, class:"link2" %>
+        </td>
+        <td class = "program" id="<%= "highlighted" if params[:controller] == "programs" %>">
+            <%= image_tag "prog.png",class: "img3" %>
+            <%= link_to "Program",{:controller => 'programs'}, class:"link3" %>
+        </td>
+        <td class = "faculty" id="<%= "highlighted" if params[:controller] == "faculties" %>">
+            <%= image_tag "fac.png",class: "img4" %>
+            <%= link_to "Faculty",{:controller => 'faculties'}, class:"link4" %>
+        </td>
+        <td class = "calendar">
+            <%= image_tag "cal.png",class: "img5" %>
+            <%= link_to "Calendar",{:controller => 'welcome'}, class:"link5" %>
+        </td>
+        <td class = "contacts">
+            <%= image_tag "cont.png",class: "img6" %>
+            <%= link_to "Contacts",{:controller => 'welcome'}, class:"link6" %>
+        </td>
+        <td class = "iaau">
+            <%= image_tag "iaau.png",class: "img7" %>
+            <%= link_to "IAAU","http://iaau.edu.kg/",target: "_blank", class:"link7" %>
+        </td>
+        <td class = "end"></td>
+      </tr>
+    </table>
+  </div>
+  </div>
+  <%= yield %>
+  <div class = "container">
+    <div class = "navigation_bot">
+      <table class = "table2">
+        <tr class = "tr2">
+          <td class = "mail">
+            <p class="pmail"><%= link_to "IAAU mail","https://www.google.com/a/iaau.edu.kg/",target: "_blank", class:"pMail" %> </p>
+          </td>
+          <td class = "ocs">
+            <p class="pOcs"><%= link_to "OCS","http://ocs.iaau.edu.kg",target: "_blank", class:"pOcs" %>  </p>
+          </td>
+          <td class = "library">
+            <p class="pLibrary"><%= link_to "Library","http://library.iaau.edu.kg",target: "_blank", class:"pLibrary" %></p>
+          </td>
+          <td class = "admin">
+            <p class="pAdmin"><%= link_to "Admin","/admin",target: "_blank", class:"pAdmin", :class => "pAdmin" %>  </p>
+          </td>
+          <td class = "end2"></td>
+        </tr>
+      </table>
+    </div>
+    <p class = "devel"><b>International Ataturk Alatoo University</b><br>
+      <span style = {font-weight:350}>Developed and Designed by Islambek Toychuev & brothers</span></p>
+    <p class = "modif">Last modified: 18.12.2013</p>
+    <p class = "afo"><%= image_tag "quot.png"%>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An optimist may see a light where there is none,<br> but why must the pessimist always run to blow it out? <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style = font-size:13px;>- Rene Descartes</span>&nbsp;<%= image_tag "quote.png" %></img></p>
+    <p class = "dots">.<span style = color:rgb(112,112,112)>.</span><span style = color:rgb(112,112,112)>.</span></p>
+  </div>
 </body>
 </html>
