@@ -8,7 +8,7 @@ class CreateFaculties < ActiveRecord::Migration
       t.string :office_time
       t.string :phone
       t.string :email
-
+      t.text :other
       t.timestamps
     end
   end

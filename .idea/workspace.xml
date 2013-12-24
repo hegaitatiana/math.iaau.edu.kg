@@ -1,85 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b215477c-195c-4895-b9bd-17654af65773" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\app\views\welcome\images.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\about-a9bc494558f4d94b925205a25b064d0d.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin-2e8ef10310ffef838f3b6875fdc2656f.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin-2e8ef10310ffef838f3b6875fdc2656f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin-ae69b579a86accad7e86edf1e69d1f91.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin-ae69b579a86accad7e86edf1e69d1f91.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\admin_notes_icon-1fcb8b3e25e259e72eca9ae1d12f7e69.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\application-d2d04149db5458484847df6667d4f75c.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\application-d2d04149db5458484847df6667d4f75c.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\datepicker\datepicker-header-bg-55012e20e581c3a936a0916444762fd0.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\datepicker\datepicker-input-icon-9768376af6ff630da2387e4590b1e0f7.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\datepicker\datepicker-next-link-icon-3a6ffe6381454199d70c5a625a62a15f.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\datepicker\datepicker-nipple-6674c8638e79f1f6027b85b1184c882c.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\datepicker\datepicker-prev-link-icon-2f2c98b396927b65ca2fde499c48b5c3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\index_list_icons\block_icon-552da6159116aff0124a76bfbe9ac4f9.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\index_list_icons\blog_icon-7ba7b85dd0db5b17d787bd4eae2b6151.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\index_list_icons\grid_icon-c9fb2dab76937d145aba2b2faaaedd17.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\index_list_icons\table_icon-85abae9641ac2d4a7fe76054b919654e.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\loading-cae346127550c7ab532b33abed69af89.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\nested_menu_arrow-717dc91196d09798b49af821ff6daa2f.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\nested_menu_arrow_dark-c88f3664ccbef31a7f69d2c3113ff15e.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\orderable-6ee1772edb709e53653eba1a5949348e.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\print-0853b138be93a9568571ed89e4d14ccf.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\active_admin\print-0853b138be93a9568571ed89e4d14ccf.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-1811dd336f198c6a0fd6f7215860edf5.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-1811dd336f198c6a0fd6f7215860edf5.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-588dec93f85d3e5cd466a8e818078d49.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-588dec93f85d3e5cd466a8e818078d49.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-b6eb4affcf5cfdcba78030f47c69f84f.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-b6eb4affcf5cfdcba78030f47c69f84f.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-cb24a6b7e7bc68ed0c391cc0b108d6aa.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-cb24a6b7e7bc68ed0c391cc0b108d6aa.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-d3488628cc18205db5be7bd27400ba49.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\application-d3488628cc18205db5be7bd27400ba49.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\back-950920a2a9ad496e37327604a06d08cf.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\cal-b12fdc35bc615361e9959cb6bc6af414.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\cont-4ca01172295966a7be5a8c2c8b6a62c9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\fac-6d0c2fbe9114fd27369e81a28a6a954a.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\home-5c33c25ab7172b9f8299edb9a8b68945.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\home-b1d056b0a266c14925ba673a402931d9.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\home-b1d056b0a266c14925ba673a402931d9.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\iaau-bc6ecb5bef1bc76bb923d450d968b2b5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\icon-5fd05b3b06b3a9e6511b7310a6bc8888.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\images-c94186f022aa422bfb1fd6c11c4a3786.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\animated-overlay-9b629ab5247187e831ea51106acdf03a.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_flat_0_aaaaaa_40x100-e055bc219bd3aed111713c2ef884d6f4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_flat_75_ffffff_40x100-1ed964fd6a424fc2d8653d5a64705840.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_glass_55_fbf9ee_1x400-c47b4313972b0311e02e671fd15a66c9.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_glass_65_ffffff_1x400-4b5173f329e3e9fbfcfcc88a84920e81.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_glass_75_dadada_1x400-b0155cdc12d3bcdfa7f4890938366181.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_glass_75_e6e6e6_1x400-21014afa81b0fea76840432b22d9d0e5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_glass_95_fef1ec_1x400-6526cba95388d3f36f03cc6296f192b5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-bg_highlight-soft_75_cccccc_1x100-f0e42cc2ef6523f77aa730753cff0462.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-icons_222222_256x240-d5b2a50ddba8e90f9487cc29efbc9080.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-icons_2e83ff_256x240-735b447c0a9f42ce6836a1e74aad6f23.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-icons_454545_256x240-ed3057724414ea20ff7bae1cdb644aca.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-icons_888888_256x240-ce584ffa171c3ea9a018cf0d7bec65c8.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\jquery-ui\ui-icons_cd0a0a_256x240-747e96029e8dedcabc224e5f7d1f2ede.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\manifest-a4795b7f3ca9f6f4d47955a54412846d.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\prog-38a2651862e2d1df9609d7e76effafed.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\quot-e82125875a7ddd6b6a690bfc7e791055.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\quote-ba17ec4322b2aa7e33cc64056222a1d6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\public\assets\vichy-164c1b6dc0f2dc1736f9c1883b9743c5.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/application-5d2bcfe5d2b01ef7dae67b437aa46539.css.gz" afterPath="$PROJECT_DIR$/public/assets/application-5d2bcfe5d2b01ef7dae67b437aa46539.css.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/application-8b25649ca12a1150329aad980646fc46.js.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/application-8b25649ca12a1150329aad980646fc46.js.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/active_admin/print-783e4248d3c32ddc388ddd4af155709a.css.gz" afterPath="$PROJECT_DIR$/public/assets/active_admin/print-783e4248d3c32ddc388ddd4af155709a.css.gz" />
+    <list default="true" id="b215477c-195c-4895-b9bd-17654af65773" name="Default" comment="Home page">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/faculty.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/about.png" afterPath="$PROJECT_DIR$/app/assets/images/about.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/back.png" afterPath="$PROJECT_DIR$/app/assets/images/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/cal.png" afterPath="$PROJECT_DIR$/app/assets/images/cal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/cont.png" afterPath="$PROJECT_DIR$/app/assets/images/cont.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/fac.png" afterPath="$PROJECT_DIR$/app/assets/images/fac.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/home.png" afterPath="$PROJECT_DIR$/app/assets/images/home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/iaau.png" afterPath="$PROJECT_DIR$/app/assets/images/iaau.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/images/prog.png" afterPath="$PROJECT_DIR$/app/assets/images/prog.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/migrate/20131216183605_create_faculties.rb" afterPath="$PROJECT_DIR$/db/migrate/20131216183605_create_faculties.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/admin/faculty.rb" afterPath="$PROJECT_DIR$/app/admin/faculty.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/faculties/index.html.erb" afterPath="$PROJECT_DIR$/app/views/faculties/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/programs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/programs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="math.iaau.edu.kg.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387530494797" ignored="false" />
+    <file path="/index.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387917130804" ignored="false" />
     <file path="/a.dummy" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387380279663" ignored="false" />
     <file path="$PROJECT_DIR$/../sample_app/app/assets/stylesheets/active_admin.css.scss" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387216507900" ignored="false" />
     <file path="/active_admin.css.scss" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387216450375" ignored="false" />
@@ -88,18 +37,23 @@
     <file path="$PROJECT_DIR$/../sample_app/log/development.log" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387217090174" ignored="false" />
     <file path="/program.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387217740841" ignored="false" />
     <file path="/20131216180104_create_programs.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387217447717" ignored="false" />
-    <file path="/faculty.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387219218071" ignored="false" />
+    <file path="/faculty.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387912940721" ignored="false" />
     <file path="/active_admin.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387219325928" ignored="false" />
-    <file path="/application.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387529900932" ignored="false" />
+    <file path="/application.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387910933656" ignored="false" />
     <file path="/README.rdoc" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387375462858" ignored="false" />
-    <file path="/home.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387527426489" ignored="false" />
+    <file path="/home.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387917044276" ignored="false" />
     <file path="/application.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387384113238" ignored="false" />
-    <file path="/application.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387530251002" ignored="false" />
+    <file path="/application.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387915952811" ignored="false" />
     <file path="/production.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387387345641" ignored="false" />
-    <file path="/Dummy.txt" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387385907075" ignored="false" />
+    <file path="/Dummy.txt" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387917391404" ignored="false" />
     <file path="/index.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387434933545" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387435798709" ignored="false" />
     <file path="/style.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387530728258" ignored="false" />
+    <file path="/.gitignore" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387910512962" ignored="false" />
+    <file path="/_footer.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387910992936" ignored="false" />
+    <file path="/_header.html.erb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387916571549" ignored="false" />
+    <file path="/20131216183605_create_faculties.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387914346830" ignored="false" />
+    <file path="/faculty.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387917235372" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,20 +73,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="27" selection-start="555" selection-end="555" vertical-scroll-proportion="-7.8461537">
+            <state line="9" column="52" selection-start="699" selection-end="745" vertical-scroll-proportion="-5.8846154">
               <folding>
-                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#3;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#br#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#p#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/about/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="42" selection-start="166" selection-end="166" vertical-scroll-proportion="-1.3076923">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#br#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,44 +108,79 @@
       <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+            <state line="1" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="faculties.css.scss" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/faculties.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="41" selection-start="454" selection-end="454" vertical-scroll-proportion="-3.1989248">
+            <state line="146" column="18" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.65384614">
+            <state line="4" column="55" selection-start="167" selection-end="175" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="89" selection-start="373" selection-end="373" vertical-scroll-proportion="-5.230769">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/faculties/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="80" selection-start="53" selection-end="113" vertical-scroll-proportion="-0.65384614">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#br#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#3;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#4;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#5;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#br#1;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="faculty.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/faculty.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="16" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/programs/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="52" selection-end="52" vertical-scroll-proportion="-0.65384614">
-              <folding />
+            <state line="7" column="12" selection-start="347" selection-end="347" vertical-scroll-proportion="0.3628049">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#br#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,29 +203,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/admin/program.rb" />
-        <option value="$PROJECT_DIR$/config/initializers/active_admin.rb" />
-        <option value="$PROJECT_DIR$/app/admin/faculty.rb" />
-        <option value="$PROJECT_DIR$/README.rdoc" />
-        <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/config/environments/production.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/index.css" />
-        <option value="$PROJECT_DIR$/app/views/programs/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/faculties/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/style.css" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/about.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/admin/faculty.rb" />
+        <option value="$PROJECT_DIR$/db/schema.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20131216183605_create_faculties.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
+        <option value="$PROJECT_DIR$/app/views/faculties/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/about/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/faculty.css" />
+        <option value="$PROJECT_DIR$/app/views/programs/index.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -232,7 +235,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -280,39 +283,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="environments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -331,10 +302,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="welcome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,24 +382,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="math.iaau.edu.kg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -731,7 +680,11 @@
       <created>1387385889786</created>
       <updated>1387385889786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Home page">
+      <created>1387531041615</created>
+      <updated>1387531041615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -755,16 +708,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="0" width="1346" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3277027" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31907895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277027" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3277027" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30218068" sideWeight="0.6722973" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29393938" sideWeight="0.6809211" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -820,7 +773,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleting assets files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -835,102 +788,152 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Deleting assets files" />
+    <MESSAGE value="Home page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="31" selection-start="1314" selection-end="1319" vertical-scroll-proportion="0.5376147">
+        <state line="2" column="0" selection-start="96" selection-end="96" vertical-scroll-proportion="-1.7288135">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="54" selection-start="618" selection-end="618" vertical-scroll-proportion="0.12477064">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/programs.css.scss">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131216181603_create_programs.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/active_admin.css.scss">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20131216183605_create_faculties.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="279" selection-end="279" vertical-scroll-proportion="0.46321526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin/program.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/common.rnc">
+    <entry file="file://$PROJECT_DIR$/app/admin/faculty.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="190" column="23" selection-start="4629" selection-end="4629" vertical-scroll-proportion="0.33270678">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/faculties/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="25" selection-start="349" selection-end="349" vertical-scroll-proportion="-9.807693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/faculties.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/programs/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="52" selection-end="52" vertical-scroll-proportion="-0.65384614">
+        <state line="12" column="14" selection-start="284" selection-end="284" vertical-scroll-proportion="0.5558583">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="46" selection-end="46" vertical-scroll-proportion="-0.65384614">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="27" selection-start="555" selection-end="555" vertical-scroll-proportion="-7.8461537">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#3;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#span#4;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#br#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0">
+        <state line="8" column="89" selection-start="373" selection-end="373" vertical-scroll-proportion="-5.230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="41" selection-start="454" selection-end="454" vertical-scroll-proportion="-3.1989248">
+        <state line="146" column="18" selection-start="2294" selection-end="2294" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/about/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="42" selection-start="166" selection-end="166" vertical-scroll-proportion="-1.3076923">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#br#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="52" selection-start="699" selection-end="745" vertical-scroll-proportion="-5.8846154">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#span#0;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#p#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="55" selection-start="167" selection-end="175" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/faculties/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="80" selection-start="53" selection-end="113" vertical-scroll-proportion="-0.65384614">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#br#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#3;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#4;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#5;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#br#1;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/faculty.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="16" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/programs/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="347" selection-end="347" vertical-scroll-proportion="0.3628049">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#br#0;n#ul#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

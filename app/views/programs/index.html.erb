@@ -1,25 +1,18 @@
 <% provide(:title, "Programs") %>
-<div class = "body">
-    <h1>Listing programs</h1>
-
-    <table>
-      <thead>
-        <tr>
-          <th>Title</th>
-          <th>Content</th>
-          <th></th>
-          <th></th>
-          <th></th>
-        </tr>
-      </thead>
-
-      <tbody>
-        <% @programs.each do |program| %>
-          <tr>
-            <td><%= program.title %></td>
-            <td><%= program.content %></td>
-          </tr>
+<div class = "body" id="<%= "program" if params[:controller] == "programs" %>">
+  <div style = "width:100px;height:50px;"></div>
+  <div class = "body_main">
+    <h3 style = "color:white;font-weight:400;">Mathematical and natural sciences subjects</h3>
+    <ul>
+      <% @programs.each do |program| %>
+        <li>
+          <%= link_to program.title,"javascript:unhide('#{program.title}');" %>
+        </li>
+          <p id = "<%= program.title %>" class = "hidden" style="color:white;line-height:25px;text-align:left;font-size:15px;">
+            <%= program.content %>
+          </p>
+          <br style="clear: left;" />
         <% end %>
-      </tbody>
-    </table>
+     </ul>
+  </div>
 </div>

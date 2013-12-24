@@ -1,7 +1,7 @@
 ActiveAdmin.register Faculty do
 
 
-  permit_params :name, :position, :degree, :office, :office_time, :phone, :email
+  permit_params :name, :position, :degree, :office, :office_time, :phone, :email, :other
   index do
     column :name
     column :position
@@ -10,6 +10,7 @@ ActiveAdmin.register Faculty do
     column :office_time
     column :phone
     column :email
+    column :other
     default_actions
   end
   

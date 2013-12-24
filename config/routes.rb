@@ -1,4 +1,7 @@
 MathIaauEduKg::Application.routes.draw do
+  get "contacts/index"
+  get "calendar/index"
+  get "about/index"
   resources :faculties
 
   resources :programs

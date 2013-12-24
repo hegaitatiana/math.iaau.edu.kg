@@ -56,6 +56,7 @@ ActiveRecord::Schema.define(version: 20131216183605) do
     t.string   "email"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text     "other"
   end
 
   create_table "programs", force: true do |t|

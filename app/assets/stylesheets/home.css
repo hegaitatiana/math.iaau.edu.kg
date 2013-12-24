@@ -3,44 +3,40 @@ text-decoration:none;
 }
 html{
 	text-align:center;
-    background-image: url("vichy.png");
+	background:url("vichy.png");
     font-family:Raleway;
 }
 .weight{
-	font-weight:200;
-}
-.top .math span{
-    font-weight:200;
+   font-weight:200;
 }
 .top_img{
-	margin-top:19px;
-	margin-left:10px;
-	vertical-align:middle;
+    margin-top:19px;
+    margin-left:10px;
+    vertical-align:middle;
 }
 .top_image{
 	margin-top:26px;
-	margin-left:10px;
+    margin-left:10px;
 }
 .top_links{
-	margin-left:5px;
+    margin-left:5px;
 	color:white;
 	font-size:18px;
 }
-
 .top_divs{
-	width:145px;
-	height:63px;
-	border-right:1px rgb(84,86,75) solid;
-	float:left;
+    width:145px;
+    height:63px;
+    border-right:1px rgb(84,86,75) solid;
+    float:left;
 }
 .wrapper{
-	margin-top:-10px;
-	margin-right:auto;
-	margin-left:auto;
-	background:white;
-	width:1080px;
-	height:210px;
-	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+    margin-top:-10px;
+    margin-right:auto;
+    margin-left:auto;
+    background:white;
+    width:1080px;
+    height:210px;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
 }
 .top_line{
 	height:17px;
@@ -55,15 +51,15 @@ html{
 .navigation{
 	height:63px;
 	width:1080px;
-    background:rgb(55,55,55);
+	background:rgb(55,55,55);
 }
 .body{
 	width:1080px;
+	margin-right:auto;
+	margin-left:auto;
 	height:100%;
-	border-top:1px solid rgb(55,55,55);
-	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
-    background: #ffffff;
-    margin:-2px auto -5px auto;
+	margin-top:-3px;
+	box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.2);
 }
 .icon{
 	float:left;
@@ -77,11 +73,11 @@ html{
 	font-size:36px;
 }
 .navigation_bot{
-	margin-right:auto;
-	margin-left:auto;
+	margin:-4px auto 0 auto;
 	height:63px;
 	width:1080px;
 	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+	background:rgb(55,55,55);
 }
 .bottom{
 	width:145px;
@@ -90,19 +86,12 @@ html{
 	background:rgb(55,55,55);
 	float: left;
 }
-.end2{
-	height:63px;
-	width:496px;
-	background:rgb(55,55,55);
-	margin-left:584px;
-	margin-top:-63px;
-}
 .bottom_links{
-	color:white;
-	font-size:18px;
-	float:left;
-	margin-top:20px;
-	margin-left:40px;
+    color:white;
+    font-size:18px;
+    float:left;
+    margin-top:20px;
+    margin-left:40px;
 }
 .last_hit{
  	height:90px;
@@ -110,26 +99,51 @@ html{
 	margin-right:auto;
 	margin-left:auto;
 	background:white;
+	box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
 }
 .devel{
-	font-size:16px;
-	float:left;
-	text-align:left;
+    font-size:16px;
+    float:left;
+    text-align:left;
     margin-left:20px;
 }
 .modif{
-	font-size:12px;
-	float:left;
+    font-size:12px;
+    float:left;
     margin-top:60px;
     margin-left:20px;
 }
 .afo{
-	font-size:12px;
-	float:left;
-    margin-left:140px;
+    font-size:12px;
+    float:left;
+    margin-left:60px;
     margin-top:20px;
 }
 
 #highlighted{
     background:rgb(105,175,0);
+}
+.inside{
+    width:600px;
+    height:100%;
+    margin-left:40px;
+}
+.gInfo{
+    font-size:16px;
+    text-align:left;
+    color:white;
+    line-height:25px;
+}
+.alg{
+    float:left;
+    height:40%;
+    width:35%;
+    margin-top:100px;
+    margin-left: 15px;
+}
+#about{
+    background:url("paral.jpg");
+}
+#faculty, #program{
+    background:url("url.jpg");
 }

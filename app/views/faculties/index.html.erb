@@ -1,36 +1,26 @@
 <% provide(:title, "Faculty") %>
-<div class = "body">
-    <h1>Listing faculties</h1>
-
-    <table>
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Position</th>
-          <th>Degree</th>
-          <th>Office</th>
-          <th>Office time</th>
-          <th>Phone</th>
-          <th>Email</th>
-          <th></th>
-          <th></th>
-          <th></th>
-        </tr>
-      </thead>
-
-      <tbody>
-        <% @faculties.each do |faculty| %>
-          <tr>
-            <td><%= faculty.name %></td>
-            <td><%= faculty.position %></td>
-            <td><%= faculty.degree %></td>
-            <td><%= faculty.office %></td>
-            <td><%= faculty.office_time %></td>
-            <td><%= faculty.phone %></td>
-            <td><%= faculty.email %></td>
-          </tr>
-        <% end %>
-      </tbody>
-    </table>
-
+<div class = "body" id="<%= "faculty" if params[:controller] == "faculties" %>">
+  <div style = "width:100px;height:50px;"></div>
+  <div class = "body_main">
+    <ul>
+      <% @faculties.each do |faculty| %>
+        <li>
+          <%= link_to faculty.name,"javascript:unhide('#{faculty.name}');" %>
+        </li>
+          <br style="clear: left;" />
+          <p  style="margin-left:30px;font-family:Verdana;color:white; float:left; line-height:25px; text-align:left; font-size:15px;">
+            <span style=color:rgb(105,175,0);>Position:</span> <%= faculty.position %><br>
+            <span style=color:rgb(105,175,0);>Degree:</span><%= faculty.degree %><br>
+            <span style=color:rgb(105,175,0);>Office:</span><%= faculty.office %><br>
+            <span style=color:rgb(105,175,0);>Office time:</span><%= faculty.office_time %><br>
+            <span style=color:rgb(105,175,0);>Phone:</span><%= faculty.phone %><br>
+            <span style=color:rgb(105,175,0);>E-mail:</span> <%= faculty.email %><br>
+          </p>
+          <p id ="<%= faculty.name %>" class = "hidden" style="margin-left:30px;font-family:Verdana; color:white;line-height:25px;text-align:left;font-size:15px;">
+            <%= faculty.other %>
+          </p>
+          <br style="clear: left;" />
+      <% end %>
+    </ul>
+  </div>
 </div>
