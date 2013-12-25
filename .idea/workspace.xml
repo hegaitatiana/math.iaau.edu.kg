@@ -2,61 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b215477c-195c-4895-b9bd-17654af65773" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/docs/2011-2012 Fall semester_Mat.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/docs/2011-2012 Spring semester_Mat.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/docs/Academic Calendar ENG - 2011-2012.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/Fall_semester_Math.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Raleway-Bold-80e48638c7338ad9c53858fbffa2cfe5.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Raleway-Regular-945b0bd849f6632f92023b424adbba81.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/Spring_semester_Math.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/about-e1122075d762c1ffe17d6acd040803d9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/alg-e6175bde28e581bed727567ba34b013d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/alg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-20f9fcb9c7022dab7014151f7000cbf0.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-a05ef53a8b99903f62b1eb348761bc1b.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e7f3798fd7646ab7ac09a4a3d684810f.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/back-b90839ab3311e1a454deabc7b5d6093a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/cal-7d82d8fb1267eb9a36f21e54c161ecbb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/cont-63ee44f8b6b77baa1a89b829fc0fbb91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fac-d7f028a97fe5d96eb63b2f44e9e373db.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/home-feca6d88a94a0b65dee06d6cb933a373.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/iaau-4dfccf593c5ae502796553dd731a2324.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/joom-b49a9dc6c6145a38ce56f150532554d9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/joom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/li-95b3558069ed462e3adfb409023e2628.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/paral-d0624944a58af5e34e533074ce6cb400.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/paral.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/prog-d1f4c4015c9544de307910baeaaf6108.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/raleway_thin-d2815b4fc222b8ebd3e72f94e53968ba.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/slide-bg-b50ed7bf4deec089b9cfaa222d75c035.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/slide-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/url-bf294030300006609d3d544aa159b45e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/url.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/about_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-20f9fcb9c7022dab7014151f7000cbf0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-a05ef53a8b99903f62b1eb348761bc1b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e7f3798fd7646ab7ac09a4a3d684810f.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/calendar_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/contacts_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/calendar/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/contacts/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/manifest-8aed3bebf6a06f37cfec9d0c4f5b0839.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/thickbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/thickbox.js" />
-      <change type="DELETED" beforePath="D:\projects\rails_projects\math.iaau.edu.kg\app\assets\stylesheets\faculties.css.scss" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/faculty.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/faculty.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/home.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/faculties/index.html.erb" afterPath="$PROJECT_DIR$/app/views/faculties/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/programs/index.html.erb" afterPath="$PROJECT_DIR$/app/views/programs/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/programs.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/programs.js.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/2011-2012 Fall semester_Mat-2df44f2211045cc5634ba0aa225d0fb9.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/2011-2012 Spring semester_Mat-bc953c394889f12016c1cd6d84a49003.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Academic Calendar ENG - 2011-2012-7535e1dbf355c0f5be6dc74e7e9b9ecc.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Fall_semester_Math-81d5ae17afa8a52023eefef57ffc2a2e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/Spring_semester_Math-7d4af4547921a34b71a6d415e3cac85a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-5bb26ea4adea2bf692a29fc769ceb3d4.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e387041aeca484ffe8f705c39f3e1648.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-fdb3d5fb26825e1edae38034d5d7fac3.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/controllers/about_controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/about_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/helpers/about_helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-5bb26ea4adea2bf692a29fc769ceb3d4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-e387041aeca484ffe8f705c39f3e1648.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-fdb3d5fb26825e1edae38034d5d7fac3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/controllers/calendar_controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/calendar_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/helpers/calendar_helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/controllers/contacts_controller_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/contacts_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/helpers/contacts_helper_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/development.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/views/about/index.html.erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/views/calendar/index.html.erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/views/contacts/index.html.erb_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/production.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="math.iaau.edu.kg.iws" />
@@ -78,7 +49,7 @@
     <file path="/application.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387384113238" ignored="false" />
     <file path="/application.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387967345615" ignored="false" />
     <file path="/production.rb" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387387345641" ignored="false" />
-    <file path="/Dummy.txt" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387989731618" ignored="false" />
+    <file path="/Dummy.txt" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387989899416" ignored="false" />
     <file path="/index.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387434933545" ignored="false" />
     <file path="/style.css" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387530728258" ignored="false" />
     <file path="/.gitignore" changelist="b215477c-195c-4895-b9bd-17654af65773" time="1387910512962" ignored="false" />
@@ -722,7 +693,11 @@
       <created>1387917932634</created>
       <updated>1387917932634</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Contact, Calendar pages">
+      <created>1387989868186</created>
+      <updated>1387989868186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
