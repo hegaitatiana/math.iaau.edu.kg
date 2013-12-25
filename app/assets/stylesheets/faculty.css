@@ -6,6 +6,7 @@
     height:100%;
     width: 800px;
     margin-left:100px;
+    color: #ffffff;
 }
 .body_main a:link  {
     float:left;
@@ -31,7 +32,11 @@ ul{
     list-style:none;
 }
 li{
-    list-style-image:url("li.png");
     margin-top:20px;
     color:white;
+    float: left;
+    cursor:pointer;
+}
+.list{
+    padding-bottom: 10px;
 }

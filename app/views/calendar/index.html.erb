@@ -1,0 +1,17 @@
+<% provide(:title, "Calendar") %>
+<div class = "body" id="<%= "program" if params[:controller] == "calendar" %>">
+    <div class="schedule">
+      <h3>Fall Semester</h3>
+      <br>
+      <div class="image">
+        <%=link_to( image_tag("Fall_semester_Math.png",class: "picture"), image_path("Fall_semester_Math.png"),class: "thickbox"  ) %>
+      </div>
+    </div>
+  <div class="schedule">
+    <h3>Spring Semester</h3>
+    <br>
+    <div class="image">
+      <%=link_to( image_tag("Spring_semester_Math.png",class: "picture"), image_path("Spring_semester_Math.png"),class: "thickbox"  ) %>
+    </div>
+  </div>
+</div>

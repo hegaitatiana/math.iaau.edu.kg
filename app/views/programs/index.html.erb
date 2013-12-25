@@ -5,14 +5,24 @@
     <h3 style = "color:white;font-weight:400;">Mathematical and natural sciences subjects</h3>
     <ul>
       <% @programs.each do |program| %>
-        <li>
-          <%= link_to program.title,"javascript:unhide('#{program.title}');" %>
-        </li>
-          <p id = "<%= program.title %>" class = "hidden" style="color:white;line-height:25px;text-align:left;font-size:15px;">
-            <%= program.content %>
-          </p>
-          <br style="clear: left;" />
-        <% end %>
+        <div class="list">
+            <li>
+              <%= image_tag "li.png" %>
+              <%= program.title %>
+            </li>
+              <p id = "<%= program.title %>" class = "hidden" style="color:white;line-height:25px;text-align:left;font-size:15px;">
+                <%= program.content %>
+              </p>
+              <br style="clear: left;" />
+        </div>
+      <% end %>
      </ul>
   </div>
 </div>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.list').click(function() {
+            $(this).find(".hidden").slideToggle('fast');
+        });
+    });
+</script>

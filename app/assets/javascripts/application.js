@@ -1,8 +1,10 @@
-<script type="text/javascript">
-function unhide(divID) {
-    var item = document.getElementById(divID);
-    if (item) {
-    item.className=(item.className=='hidden')?'unhidden':'hidden';
-    }
-}
-</script>
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require_tree .
+
+$(document).ready(function() {
+    $('.list').click(function() {
+        $(this).find(".hidden").slideToggle('fast');
+    });
+});
