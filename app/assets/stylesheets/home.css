@@ -1,13 +1,22 @@
 a{
 text-decoration:none;
 }
+@font-face {
+    font-family: "Raleway";
+    src: url(Raleway-Regular.otf) format("truetype");
+}
+@font-face {
+    font-family: "Raleway-thin";
+    src: url(raleway_thin.otf) format("truetype");
+}
 html{
+
 	text-align:center;
 	background:url("vichy.png");
     font-family:Raleway;
 }
 .weight{
-   font-weight:200;
+    font-family:Raleway-thin;
 }
 .top_img{
     margin-top:19px;
@@ -107,6 +116,7 @@ html{
     text-align:left;
     margin-left:20px;
     margin-top: 15px;
+    font-weight: 500;
 }
 .modif{
     font-size:12px;
@@ -147,4 +157,14 @@ html{
 }
 #faculty, #program{
     background:url("url.jpg");
+}
+
+#wrap-slider {
+    max-width: 1080px;
+    height: 470px;
+}
+
+#slider {
+    max-width: 1080px;
+    height: 470px;
 }

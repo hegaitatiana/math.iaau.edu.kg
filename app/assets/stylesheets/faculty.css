@@ -7,6 +7,7 @@
     width: 800px;
     margin-left:100px;
     color: #ffffff;
+    text-align: left;
 }
 .body_main a:link  {
     float:left;
@@ -36,6 +37,7 @@ li{
     color:white;
     float: left;
     cursor:pointer;
+    font-size:20px;
 }
 .list{
     padding-bottom: 10px;
