@@ -7,3 +7,12 @@
     height: 100px;
     width: 200px;
 }
+.calendar{
+    width: 360px;
+    border-right: 1px dashed #ffffff;
+}
+.downloads{
+    color: #ffffff;
+    font-size: 20px;
+    padding-top: 10px;
+}
