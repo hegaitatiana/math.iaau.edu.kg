@@ -1,5 +1,5 @@
 <% provide(:title, "Calendar") %>
-<div class = "body" id="<%= "program" if params[:controller] == "calendar" %>">
+<div class = "body" id="<%= "about" if params[:controller] == "calendar" %>">
   <table>
     <tr>
       <td class="calendar">
@@ -39,7 +39,7 @@
           <h3>Downloads</h3>
           <br>
           <%= link_to "Fall Semester","/data/Fall_semester_Mat.xlsx",class: "downloads" %> <br>
-          <%= link_to "Spring Semester","/data/Sprin_ semester_Mat.xlsx",class: "downloads" %> <br>
+          <%= link_to "Spring Semester","/data/Spring_semester_Mat.xlsx",class: "downloads" %> <br>
           <%= link_to "Midterm","/data/MAT_final.xlsx",class: "downloads" %> <br>
           <%= link_to "Final","/data/MAT_midterm.xlsx",class: "downloads" %><br>
           <%= link_to "Academic Calendar","/data/Academic_Calendar_ENG",class: "downloads" %>  <br>

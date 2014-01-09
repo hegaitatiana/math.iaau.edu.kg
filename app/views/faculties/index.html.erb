@@ -9,7 +9,7 @@
               <%= image_tag "li.png" %>
               <%= faculty.name %>
             </li>
-              <br style="clear: left;" />
+                <div style="clear: both;" ></div>
               <p style="margin-left:30px;font-family:Verdana;color:white; float:left; line-height:25px; text-align:left; font-size:15px;">
                 <span style=color:rgb(105,175,0);>Position:</span> <%= faculty.position %><br>
                 <span style=color:rgb(105,175,0);>Degree:</span><%= faculty.degree %><br>
@@ -18,6 +18,7 @@
                 <span style=color:rgb(105,175,0);>Phone:</span><%= faculty.phone %><br>
                 <span style=color:rgb(105,175,0);>E-mail:</span> <%= faculty.email %><br>
               </p>
+            <div style="clear: both;" ></div>
               <p id ="<%= faculty.name %>" class = "hidden" style="margin-left:30px;font-family:Verdana; color:white;line-height:25px;text-align:left;font-size:15px;">
                 <%= faculty.other %>
               </p>
